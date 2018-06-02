@@ -1,4 +1,4 @@
-# Ruby Arrays - Iterating
+# Lecture 009: Iteration With Arrays
 
 ## Objectives
 
