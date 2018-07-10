@@ -81,7 +81,7 @@ Confidently, we begin to ideate a solution...:
 tax_included = []
 
 cart_item_prices.each do |price|
-  price_with_tax = price * 0.17
+  price_with_tax = price * 1.07
   tax_included << price_with_tax
 end
 # => [12.43, 19.99, 3.49, 75.0]
